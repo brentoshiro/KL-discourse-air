@@ -9,16 +9,16 @@
   "name": "Air Theme",
   "color_schemes": {
     "air-light": {
-      "primary": "e0e0e0",
-      "secondary": "000000",
-      "tertiary": "000000",
+      "primary": "1c1c1c",
+      "secondary": "F9FCFF",
+      "tertiary": "3877e5",
       "quaternary": "7E8B93",
-      "header_background": "2bff88",
-      "header_primary": "000000",
-      "highlight": "F1E6F3",
+      "header_background": "F9FCFF",
+      "header_primary": "122b43",
+      "highlight": "E6CB37",
       "danger": "D05454",
       "success": "71BD9F",
-      "love": "2BFF88"
+      "love": "C16AD7"
     },
     "air-dark": {
       "primary": "E0E0E0",
