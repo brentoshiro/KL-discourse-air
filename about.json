@@ -10,11 +10,11 @@
   "color_schemes": {
     "air-light": {
       "primary": "e0e0e0",
-      "secondary": "3F3F3F",
+      "secondary": "00000",
       "tertiary": "2BFF88",
       "quaternary": "7E8B93",
       "header_background": "2d2d2d",
-      "header_primary": "e0e0e0",
+      "header_primary": "00000",
       "highlight": "F1E6F3",
       "danger": "D05454",
       "success": "71BD9F",
